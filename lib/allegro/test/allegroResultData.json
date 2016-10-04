@@ -1,0 +1,2357 @@
+{
+  "itemsCount": 2,
+  "itemsFeaturedCount": 1,
+  "itemsList": {
+    "item": [
+      {
+        "itemId": "5808585399",
+        "itemTitle": "Lego CASTLE 70404 ZAMEK RYCERSKI -nowy-wysyłka 24h",
+        "leftCount": 4,
+        "bidsCount": 13,
+        "biddersCount": 12,
+        "quantityType": "pieces",
+        "timeToEnd": "do wyczerpania przedmiotów",
+        "categoryId": 93251,
+        "conditionInfo": "new",
+        "promotionInfo": 1,
+        "additionalInfo": 3,
+        "sellerInfo": {
+          "userId": 3953022,
+          "userLogin": "krzysiozurawski",
+          "userRating": 1129,
+          "userIcons": 12,
+          "countryId": 1
+        },
+        "priceInfo": {
+          "item": [
+            {
+              "priceType": "buyNow",
+              "priceValue": "1299.99"
+            },
+            {
+              "priceType": "withDelivery",
+              "priceValue": "1299.99"
+            }
+          ]
+        },
+        "photosInfo": {
+          "item": [
+            {
+              "photoSize": "small",
+              "photoUrl": "http://img09.allegroimg.com/photos/64x48/58/08/58/53/5808585399",
+              "photoIsMain": true
+            },
+            {
+              "photoSize": "medium",
+              "photoUrl": "http://redir-img09.allegroimg.com/photos/128x96/58/08/58/53/5808585399",
+              "photoIsMain": true
+            },
+            {
+              "photoSize": "large",
+              "photoUrl": "http://redir-img09.allegroimg.com/photos/400x300/58/08/58/53/5808585399",
+              "photoIsMain": true
+            }
+          ]
+        },
+        "parametersInfo": {
+          "item": [
+            {
+              "parameterName": "Bohater",
+              "parameterValue": {
+                "item": [
+                  "inny"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Płeć",
+              "parameterValue": {
+                "item": [
+                  "Chłopcy"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Marka",
+              "parameterValue": {
+                "item": [
+                  "inna"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Stan",
+              "parameterValue": {
+                "item": [
+                  "Nowy"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Wiek dziecka",
+              "parameterValue": {
+                "item": [
+                  "7 lat +"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Certyfikaty i opinie",
+              "parameterValue": {
+                "item": [
+                  "CE"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Materiał",
+              "parameterValue": {
+                "item": [
+                  "Plastik"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            }
+          ]
+        }
+      },
+      {
+        "itemId": "6529516792",
+        "itemTitle": "KLOCKI LEGO 70404 ZAMEK RYCERSKI CASTLE W-WA",
+        "leftCount": 2,
+        "bidsCount": 0,
+        "biddersCount": 0,
+        "quantityType": "pieces",
+        "endingTime": "2016-10-11T17:45:02.000Z",
+        "timeToEnd": "6 dni",
+        "categoryId": 93251,
+        "conditionInfo": "new",
+        "promotionInfo": 0,
+        "additionalInfo": 1,
+        "sellerInfo": {
+          "userId": 9540494,
+          "userLogin": "Crusca",
+          "userRating": 4775,
+          "userIcons": 6,
+          "countryId": 1
+        },
+        "priceInfo": {
+          "item": [
+            {
+              "priceType": "buyNow",
+              "priceValue": "975"
+            },
+            {
+              "priceType": "withDelivery",
+              "priceValue": "985"
+            }
+          ]
+        },
+        "photosInfo": {
+          "item": [
+            {
+              "photoSize": "small",
+              "photoUrl": "http://img08.allegroimg.com/photos/64x48/65/29/51/67/6529516792",
+              "photoIsMain": true
+            },
+            {
+              "photoSize": "medium",
+              "photoUrl": "http://img08.allegroimg.com/photos/128x96/65/29/51/67/6529516792",
+              "photoIsMain": true
+            },
+            {
+              "photoSize": "large",
+              "photoUrl": "http://redir-img08.allegroimg.com/photos/400x300/65/29/51/67/6529516792",
+              "photoIsMain": true
+            }
+          ]
+        },
+        "parametersInfo": {
+          "item": [
+            {
+              "parameterName": "Bohater",
+              "parameterValue": {
+                "item": [
+                  "inny"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Płeć",
+              "parameterValue": {
+                "item": [
+                  "Chłopcy",
+                  "Dziewczynki"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Marka",
+              "parameterValue": {
+                "item": [
+                  "inna"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Stan",
+              "parameterValue": {
+                "item": [
+                  "Nowy"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Wiek dziecka",
+              "parameterValue": {
+                "item": [
+                  "6 lat +"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Certyfikaty i opinie",
+              "parameterValue": {
+                "item": [
+                  "CE"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            },
+            {
+              "parameterName": "Materiał",
+              "parameterValue": {
+                "item": [
+                  "Plastik"
+                ]
+              },
+              "parameterUnit": "",
+              "parameterIsRange": false
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "categoriesList": {
+    "categoriesTree": {
+      "item": [
+        {
+          "categoryId": 17865,
+          "categoryName": "LEGO",
+          "categoryParentId": 11823,
+          "categoryItemsCount": 2
+        },
+        {
+          "categoryId": 93251,
+          "categoryName": "Castle",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 2
+        },
+        {
+          "categoryId": 93215,
+          "categoryName": "Pirates",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93211,
+          "categoryName": "Racers",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93208,
+          "categoryName": "Space Police",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 110015,
+          "categoryName": "Ninjago",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 124901,
+          "categoryName": "Monster Fighters",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93209,
+          "categoryName": "Minifigures",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251669,
+          "categoryName": "Mixels",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251670,
+          "categoryName": "Speed Champions",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 254038,
+          "categoryName": "Nexo Knights",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 124902,
+          "categoryName": "Super Heroes",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 17870,
+          "categoryName": "Mieszane",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93217,
+          "categoryName": "Płytki budowlane",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93218,
+          "categoryName": "Pozostałe",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93203,
+          "categoryName": "Toy Story",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251672,
+          "categoryName": "The Movie",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251678,
+          "categoryName": "Minecraft",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 17873,
+          "categoryName": "Technic",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251671,
+          "categoryName": "The Lord of the Rings",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93205,
+          "categoryName": "Star Wars",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251668,
+          "categoryName": "Mindstorms",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93213,
+          "categoryName": "Creator",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 124899,
+          "categoryName": "Dino",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251665,
+          "categoryName": "Disney Princess",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251664,
+          "categoryName": "Classic",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93206,
+          "categoryName": "City",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93199,
+          "categoryName": "Atlantis",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 17871,
+          "categoryName": "Bionicle",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 125702,
+          "categoryName": "Chima",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 17872,
+          "categoryName": "Duplo",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251666,
+          "categoryName": "Elves",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93214,
+          "categoryName": "Indiana Jones",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 251667,
+          "categoryName": "Juniors",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93207,
+          "categoryName": "Kingdoms",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93200,
+          "categoryName": "Hero Factory",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93202,
+          "categoryName": "Harry Potter",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 111994,
+          "categoryName": "Friends",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 93204,
+          "categoryName": "Gry",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        },
+        {
+          "categoryId": 254938,
+          "categoryName": "Architecture",
+          "categoryParentId": 17865,
+          "categoryItemsCount": 0
+        }
+      ]
+    },
+    "categoriesPath": {
+      "item": [
+        {
+          "categoryId": 11763,
+          "categoryName": "Dziecko",
+          "categoryParentId": 0
+        },
+        {
+          "categoryId": 11818,
+          "categoryName": "Zabawki",
+          "categoryParentId": 11763
+        },
+        {
+          "categoryId": 11823,
+          "categoryName": "Klocki",
+          "categoryParentId": 11818
+        },
+        {
+          "categoryId": 17865,
+          "categoryName": "LEGO",
+          "categoryParentId": 11823
+        }
+      ]
+    }
+  },
+  "filtersList": {
+    "item": [
+      {
+        "filterId": "price",
+        "filterName": "Cena",
+        "filterType": "country",
+        "filterControlType": "textbox",
+        "filterDataType": "float",
+        "filterIsRange": true,
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "state",
+        "filterName": "Województwo",
+        "filterType": "country",
+        "filterControlType": "combobox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1",
+              "filterValueName": "dolnośląskie"
+            },
+            {
+              "filterValueId": "2",
+              "filterValueName": "kujawsko-pomorskie"
+            },
+            {
+              "filterValueId": "3",
+              "filterValueName": "lubelskie"
+            },
+            {
+              "filterValueId": "4",
+              "filterValueName": "lubuskie"
+            },
+            {
+              "filterValueId": "5",
+              "filterValueName": "łódzkie"
+            },
+            {
+              "filterValueId": "6",
+              "filterValueName": "małopolskie"
+            },
+            {
+              "filterValueId": "7",
+              "filterValueName": "mazowieckie"
+            },
+            {
+              "filterValueId": "8",
+              "filterValueName": "opolskie"
+            },
+            {
+              "filterValueId": "9",
+              "filterValueName": "podkarpackie"
+            },
+            {
+              "filterValueId": "10",
+              "filterValueName": "podlaskie"
+            },
+            {
+              "filterValueId": "11",
+              "filterValueName": "pomorskie"
+            },
+            {
+              "filterValueId": "12",
+              "filterValueName": "śląskie"
+            },
+            {
+              "filterValueId": "13",
+              "filterValueName": "świętokrzyskie"
+            },
+            {
+              "filterValueId": "14",
+              "filterValueName": "warmińsko-mazurskie"
+            },
+            {
+              "filterValueId": "15",
+              "filterValueName": "wielkopolskie"
+            },
+            {
+              "filterValueId": "16",
+              "filterValueName": "zachodniopomorskie"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "city",
+              "distance",
+              "mainPage",
+              "postCode"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "userId",
+        "filterName": "Identyfikator użytkownika",
+        "filterType": "country",
+        "filterControlType": "textbox",
+        "filterDataType": "int",
+        "filterIsRange": false
+      },
+      {
+        "filterId": "category",
+        "filterName": "Kategoria",
+        "filterType": "country",
+        "filterControlType": "textbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterRelations": {
+          "relationExclude": {
+            "item": [
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "search",
+        "filterName": "Szukaj w tytule",
+        "filterType": "country",
+        "filterControlType": "textbox",
+        "filterDataType": "string",
+        "filterIsRange": false
+      },
+      {
+        "filterId": "description",
+        "filterName": "Szukaj też w opisach i parametrach",
+        "filterType": "country",
+        "filterControlType": "checkbox",
+        "filterDataType": "boolean",
+        "filterIsRange": false,
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "search"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "departmentPage",
+              "mainPage",
+              "similar",
+              "special"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "closed",
+        "filterName": "Szukaj w zakończonych",
+        "filterType": "country",
+        "filterControlType": "checkbox",
+        "filterDataType": "boolean",
+        "filterIsRange": false,
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "search"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "departmentPage",
+              "mainPage",
+              "similar",
+              "special"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "similar",
+        "filterName": "Znajdź podobne oferty",
+        "filterType": "country",
+        "filterControlType": "checkbox",
+        "filterDataType": "boolean",
+        "filterIsRange": false,
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "search"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "closed",
+              "departmentPage",
+              "description",
+              "mainPage",
+              "special"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "department",
+        "filterName": "Dział",
+        "filterType": "country",
+        "filterControlType": "combobox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "electronics",
+              "filterValueName": "Elektronika"
+            },
+            {
+              "filterValueId": "fashionBeauty",
+              "filterValueName": "Moda i uroda"
+            },
+            {
+              "filterValueId": "householdHealth",
+              "filterValueName": "Dom i zdrowie"
+            },
+            {
+              "filterValueId": "baby",
+              "filterValueName": "Dziecko"
+            },
+            {
+              "filterValueId": "cultureEntertainment",
+              "filterValueName": "Kultura i rozrywka"
+            },
+            {
+              "filterValueId": "sportsLeisure",
+              "filterValueName": "Sport i wypoczynek"
+            },
+            {
+              "filterValueId": "automotive",
+              "filterValueName": "Motoryzacja"
+            },
+            {
+              "filterValueId": "collectionsArt",
+              "filterValueName": "Kolekcje i sztuka"
+            },
+            {
+              "filterValueId": "companyServices",
+              "filterValueName": "Firma"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage",
+              "special"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "condition",
+        "filterName": "Stan",
+        "filterType": "country",
+        "filterControlType": "checkbox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "new",
+              "filterValueName": "Nowe",
+              "filterValueCount": 2
+            },
+            {
+              "filterValueId": "used",
+              "filterValueName": "Używane",
+              "filterValueCount": 0
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "offerType",
+        "filterName": "Rodzaj oferty",
+        "filterType": "country",
+        "filterControlType": "checkbox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "buyNow",
+              "filterValueName": "Kup Teraz",
+              "filterValueCount": 2
+            },
+            {
+              "filterValueId": "auction",
+              "filterValueName": "Licytacje",
+              "filterValueCount": 0
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "distance",
+        "filterName": "Dystans",
+        "filterType": "country",
+        "filterControlType": "combobox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "10km",
+              "filterValueName": "10 km"
+            },
+            {
+              "filterValueId": "25km",
+              "filterValueName": "25 km"
+            },
+            {
+              "filterValueId": "50km",
+              "filterValueName": "50 km"
+            },
+            {
+              "filterValueId": "75km",
+              "filterValueName": "75 km"
+            },
+            {
+              "filterValueId": "100km",
+              "filterValueName": "100 km"
+            },
+            {
+              "filterValueId": "150km",
+              "filterValueName": "150 km"
+            },
+            {
+              "filterValueId": "200km",
+              "filterValueName": "200 km"
+            },
+            {
+              "filterValueId": "350km",
+              "filterValueName": "350 km"
+            },
+            {
+              "filterValueId": "500km",
+              "filterValueName": "500 km"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "postCode"
+            ]
+          },
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "city",
+              "mainPage",
+              "state"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "shippingTime",
+        "filterName": "Czas realizacji",
+        "filterType": "country",
+        "filterControlType": "combobox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "24h",
+              "filterValueName": "24 godziny"
+            },
+            {
+              "filterValueId": "2d",
+              "filterValueName": "do 2 dni"
+            },
+            {
+              "filterValueId": "3d",
+              "filterValueName": "do 3 dni"
+            },
+            {
+              "filterValueId": "4d",
+              "filterValueName": "do 4 dni"
+            },
+            {
+              "filterValueId": "5d",
+              "filterValueName": "do 5 dni"
+            },
+            {
+              "filterValueId": "7d",
+              "filterValueName": "do 7 dni"
+            },
+            {
+              "filterValueId": "10d",
+              "filterValueName": "do 10 dni"
+            },
+            {
+              "filterValueId": "14d",
+              "filterValueName": "do 14 dni"
+            },
+            {
+              "filterValueId": "21d",
+              "filterValueName": "do 21 dni"
+            },
+            {
+              "filterValueId": "more",
+              "filterValueName": "dłużej"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "postCode",
+        "filterName": "Kod pocztowy",
+        "filterType": "country",
+        "filterControlType": "textbox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "distance"
+            ]
+          },
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "city",
+              "mainPage",
+              "state"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "city",
+        "filterName": "Miejscowość",
+        "filterType": "country",
+        "filterControlType": "textbox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "distance",
+              "mainPage",
+              "postCode",
+              "state"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "offerOptions",
+        "filterName": "Opcje oferty",
+        "filterType": "country",
+        "filterControlType": "checkbox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "freeShipping",
+              "filterValueName": "Wysyłka gratis"
+            },
+            {
+              "filterValueId": "freeReturn",
+              "filterValueName": "Allegro InPost"
+            },
+            {
+              "filterValueId": "generalDelivery",
+              "filterValueName": "odbiór w Paczkomacie"
+            },
+            {
+              "filterValueId": "installmentAvailable",
+              "filterValueName": "Raty PayU"
+            },
+            {
+              "filterValueId": "standardAllegro",
+              "filterValueName": "Standard Allegro"
+            },
+            {
+              "filterValueId": "vatInvoice",
+              "filterValueName": "Faktura VAT"
+            },
+            {
+              "filterValueId": "personalReceipt",
+              "filterValueName": "Odbiór osobisty"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "endingTime",
+        "filterName": "Kończące się w ciągu",
+        "filterType": "country",
+        "filterControlType": "combobox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1h",
+              "filterValueName": "1 godziny"
+            },
+            {
+              "filterValueId": "2h",
+              "filterValueName": "2 godzin"
+            },
+            {
+              "filterValueId": "3h",
+              "filterValueName": "3 godzin"
+            },
+            {
+              "filterValueId": "4h",
+              "filterValueName": "4 godzin"
+            },
+            {
+              "filterValueId": "5h",
+              "filterValueName": "5 godzin"
+            },
+            {
+              "filterValueId": "12h",
+              "filterValueName": "12 godzin"
+            },
+            {
+              "filterValueId": "24h",
+              "filterValueName": "24 godzin"
+            },
+            {
+              "filterValueId": "2d",
+              "filterValueName": "2 dni"
+            },
+            {
+              "filterValueId": "3d",
+              "filterValueName": "3 dni"
+            },
+            {
+              "filterValueId": "4d",
+              "filterValueName": "4 dni"
+            },
+            {
+              "filterValueId": "5d",
+              "filterValueName": "5 dni"
+            },
+            {
+              "filterValueId": "6d",
+              "filterValueName": "6 dni"
+            },
+            {
+              "filterValueId": "7d",
+              "filterValueName": "7 dni"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "startingTime",
+        "filterName": "Wystawione w ciągu",
+        "filterType": "country",
+        "filterControlType": "combobox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1h",
+              "filterValueName": "1 godziny"
+            },
+            {
+              "filterValueId": "2h",
+              "filterValueName": "2 godzin"
+            },
+            {
+              "filterValueId": "3h",
+              "filterValueName": "3 godzin"
+            },
+            {
+              "filterValueId": "4h",
+              "filterValueName": "4 godzin"
+            },
+            {
+              "filterValueId": "5h",
+              "filterValueName": "5 godzin"
+            },
+            {
+              "filterValueId": "12h",
+              "filterValueName": "12 godzin"
+            },
+            {
+              "filterValueId": "24h",
+              "filterValueName": "24 godzin"
+            },
+            {
+              "filterValueId": "2d",
+              "filterValueName": "2 dni"
+            },
+            {
+              "filterValueId": "3d",
+              "filterValueName": "3 dni"
+            },
+            {
+              "filterValueId": "4d",
+              "filterValueName": "4 dni"
+            },
+            {
+              "filterValueId": "5d",
+              "filterValueName": "5 dni"
+            },
+            {
+              "filterValueId": "6d",
+              "filterValueName": "6 dni"
+            },
+            {
+              "filterValueId": "7d",
+              "filterValueName": "7 dni"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationOr": {
+            "item": [
+              "category",
+              "departmentPage",
+              "search",
+              "special",
+              "userId"
+            ]
+          },
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "mainPage"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "special",
+        "filterName": "Typ listingu",
+        "filterType": "country",
+        "filterControlType": "combobox",
+        "filterDataType": "string",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "new",
+              "filterValueName": "Najnowsze"
+            },
+            {
+              "filterValueId": "ending",
+              "filterValueName": "Kończące się"
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationExclude": {
+            "item": [
+              "categoryPage",
+              "closed",
+              "department",
+              "departmentPage",
+              "description",
+              "mainPage",
+              "similar"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "18137",
+        "filterName": "Certyfikaty i opinie",
+        "filterType": "category",
+        "filterControlType": "checkbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "8",
+              "filterValueName": "CE",
+              "filterValueCount": 2
+            },
+            {
+              "filterValueId": "16",
+              "filterValueName": "EN 71",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "4",
+              "filterValueName": "FSC",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "32",
+              "filterValueName": "LGA",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "1",
+              "filterValueName": "Instytut Matki i Dziecka",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "2",
+              "filterValueName": "Pomnik Centrum Zdrowia Dziecka",
+              "filterValueCount": 0
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "category"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "127768",
+        "filterName": "Bohater",
+        "filterType": "category",
+        "filterControlType": "checkbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1",
+              "filterValueName": "101 Dalmatyńczyków",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "2",
+              "filterValueName": "AC Milan",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "3",
+              "filterValueName": "Angry Birds",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "4",
+              "filterValueName": "Angry Birds Star Wars",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "5",
+              "filterValueName": "Angry Birds Transformers",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "6",
+              "filterValueName": "Avengers",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "7",
+              "filterValueName": "Bakugan",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "8",
+              "filterValueName": "Bambi",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "9",
+              "filterValueName": "Barbie",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "10",
+              "filterValueName": "Batman",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "11",
+              "filterValueName": "Ben 10",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "12",
+              "filterValueName": "Bob Budowniczy",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "73",
+              "filterValueName": "Cars",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "13",
+              "filterValueName": "Charming Kitty",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "14",
+              "filterValueName": "Cut the rope",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "15",
+              "filterValueName": "Disney Księżniczki",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "16",
+              "filterValueName": "Doktor Dosia",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "17",
+              "filterValueName": "Dora",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "18",
+              "filterValueName": "Ever After High",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "19",
+              "filterValueName": "FC Barcelona",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "78",
+              "filterValueName": "Fifi",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "20",
+              "filterValueName": "Fineasz & Ferb",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "21",
+              "filterValueName": "Flinstones",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "22",
+              "filterValueName": "Furby",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "23",
+              "filterValueName": "Garfield",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "79",
+              "filterValueName": "Gormiti",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "24",
+              "filterValueName": "Hannah Montana",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "25",
+              "filterValueName": "Hello Kitty",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "26",
+              "filterValueName": "Jak wytresować smoka",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "30",
+              "filterValueName": "Jej Wysokość Zofia",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "27",
+              "filterValueName": "Kaczor Donald i Przyjaciele",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "28",
+              "filterValueName": "Kraina Lodu",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "29",
+              "filterValueName": "Król Lew",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "31",
+              "filterValueName": "Kubuś Puchatek i Przyjaciele",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "32",
+              "filterValueName": "Listonosz Pat",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "33",
+              "filterValueName": "Littlest Pet Shop",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "82",
+              "filterValueName": "Little People",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "34",
+              "filterValueName": "Looney Tunes",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "35",
+              "filterValueName": "Madagaskar",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "86",
+              "filterValueName": "Masza i Niedźwiedź",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "36",
+              "filterValueName": "Merida Waleczna",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "37",
+              "filterValueName": "Mia and Me",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "38",
+              "filterValueName": "Minionki",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "39",
+              "filterValueName": "Monster High",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "40",
+              "filterValueName": "My Little Pony",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "41",
+              "filterValueName": "My Little Pony Equestria Girls",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "42",
+              "filterValueName": "Myszka Mickey",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "43",
+              "filterValueName": "Myszka Minnie",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "76",
+              "filterValueName": "Pacman",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "44",
+              "filterValueName": "Pingwiny z Madagaskaru",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "45",
+              "filterValueName": "Pirat Jake",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "83",
+              "filterValueName": "Pokemon",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "77",
+              "filterValueName": "Polly Pocket",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "46",
+              "filterValueName": "Potwory",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "47",
+              "filterValueName": "Power Rangers",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "48",
+              "filterValueName": "Real Madryt",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "49",
+              "filterValueName": "Rycerz Mike",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "50",
+              "filterValueName": "Samoloty - Planes",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "51",
+              "filterValueName": "Scooby-Doo",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "52",
+              "filterValueName": "Simpsonowie",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "53",
+              "filterValueName": "Smerfy",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "54",
+              "filterValueName": "Snoopy",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "84",
+              "filterValueName": "Soy Luna",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "74",
+              "filterValueName": "Spiderman",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "55",
+              "filterValueName": "SpongeBob",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "56",
+              "filterValueName": "Stacyjkowo",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "57",
+              "filterValueName": "Star Wars",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "58",
+              "filterValueName": "Star Wars Rebels",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "59",
+              "filterValueName": "Strażak Sam",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "60",
+              "filterValueName": "Superman",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "80",
+              "filterValueName": "Śmieciaki",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "61",
+              "filterValueName": "Świnka Peppa",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "62",
+              "filterValueName": "the Muppets",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "63",
+              "filterValueName": "Tom & Jerry",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "64",
+              "filterValueName": "Tomek i Przyjaciele",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "65",
+              "filterValueName": "Toy Story",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "66",
+              "filterValueName": "Transformers",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "67",
+              "filterValueName": "Trash Pack",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "85",
+              "filterValueName": "Trolle",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "75",
+              "filterValueName": "Truskawkowe Ciastko",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "68",
+              "filterValueName": "Violetta",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "69",
+              "filterValueName": "Wojownicze Żółwie Ninja",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "70",
+              "filterValueName": "Wróżki",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "81",
+              "filterValueName": "Zoobles",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "71",
+              "filterValueName": "inny",
+              "filterValueCount": 2
+            },
+            {
+              "filterValueId": "72",
+              "filterValueName": "brak",
+              "filterValueCount": 0
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "category"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "127812",
+        "filterName": "Marka",
+        "filterType": "category",
+        "filterControlType": "checkbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "43",
+              "filterValueName": "Avengers",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "1",
+              "filterValueName": "Baby Alive",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "2",
+              "filterValueName": "Baby Annabell",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "3",
+              "filterValueName": "Baby Born",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "37",
+              "filterValueName": "BanBao",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "4",
+              "filterValueName": "Barbie",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "34",
+              "filterValueName": "Bigjigs",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "5",
+              "filterValueName": "Bratz",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "38",
+              "filterValueName": "Chicco",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "6",
+              "filterValueName": "Chou Chou",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "52",
+              "filterValueName": "Classic World",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "25",
+              "filterValueName": "Clics",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "49",
+              "filterValueName": "Dabo",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "7",
+              "filterValueName": "Disney",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "51",
+              "filterValueName": "Ecotoys",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "46",
+              "filterValueName": "Eichhorn",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "53",
+              "filterValueName": "Epee",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "8",
+              "filterValueName": "Evi",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "31",
+              "filterValueName": "Filly",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "9",
+              "filterValueName": "Fisher Price",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "39",
+              "filterValueName": "Goki",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "41",
+              "filterValueName": "Hape",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "10",
+              "filterValueName": "High School Musical",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "11",
+              "filterValueName": "Hot wheels",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "32",
+              "filterValueName": "Imaginext",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "40",
+              "filterValueName": "Janod",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "36",
+              "filterValueName": "KidKraft",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "35",
+              "filterValueName": "KinderKraft",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "44",
+              "filterValueName": "Klein",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "12",
+              "filterValueName": "Lalaloopsy",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "47",
+              "filterValueName": "Majorette",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "26",
+              "filterValueName": "Marvel",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "13",
+              "filterValueName": "Monopoly",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "14",
+              "filterValueName": "Moxie Girlz",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "15",
+              "filterValueName": "Natalia",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "16",
+              "filterValueName": "NERF",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "17",
+              "filterValueName": "One Direction",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "18",
+              "filterValueName": "Play Doh",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "19",
+              "filterValueName": "Polly Pocket",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "28",
+              "filterValueName": "PWBaby",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "27",
+              "filterValueName": "PWToys",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "20",
+              "filterValueName": "Reborn",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "33",
+              "filterValueName": "Schleich",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "48",
+              "filterValueName": "Simba",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "29",
+              "filterValueName": "Skip Hop",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "21",
+              "filterValueName": "Steffi",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "45",
+              "filterValueName": "Tiny Love",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "50",
+              "filterValueName": "Tomy",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "22",
+              "filterValueName": "Transformers",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "23",
+              "filterValueName": "Winx",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "24",
+              "filterValueName": "inna",
+              "filterValueCount": 2
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "category"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "127789",
+        "filterName": "Płeć",
+        "filterType": "category",
+        "filterControlType": "checkbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1",
+              "filterValueName": "Chłopcy",
+              "filterValueCount": 2
+            },
+            {
+              "filterValueId": "2",
+              "filterValueName": "Dziewczynki",
+              "filterValueCount": 1
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "category"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "128068",
+        "filterName": "Rodzaj",
+        "filterType": "category",
+        "filterControlType": "checkbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1",
+              "filterValueName": "Element",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "3",
+              "filterValueName": "Kompletny zestaw",
+              "filterValueCount": 2
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "category"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "3475",
+        "filterName": "Wiek dziecka",
+        "filterType": "category",
+        "filterControlType": "checkbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1",
+              "filterValueName": "0 +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "14",
+              "filterValueName": "3 m +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "24",
+              "filterValueName": "6 m +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "28",
+              "filterValueName": "9 m +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "30",
+              "filterValueName": "12 m +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "35",
+              "filterValueName": "18 m +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "40",
+              "filterValueName": "2 lata +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "45",
+              "filterValueName": "3 lata +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "50",
+              "filterValueName": "4 lata +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "55",
+              "filterValueName": "5 lat +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "60",
+              "filterValueName": "6 lat +",
+              "filterValueCount": 1
+            },
+            {
+              "filterValueId": "65",
+              "filterValueName": "7 lat +",
+              "filterValueCount": 1
+            },
+            {
+              "filterValueId": "70",
+              "filterValueName": "8 lat +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "75",
+              "filterValueName": "9 lat +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "80",
+              "filterValueName": "10 lat +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "85",
+              "filterValueName": "11 lat +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "90",
+              "filterValueName": "12 lat +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "95",
+              "filterValueName": "13 lat +",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "100",
+              "filterValueName": "14 lat +",
+              "filterValueCount": 0
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "category"
+            ]
+          }
+        }
+      },
+      {
+        "filterId": "18136",
+        "filterName": "Materiał",
+        "filterType": "category",
+        "filterControlType": "checkbox",
+        "filterDataType": "int",
+        "filterIsRange": false,
+        "filterValues": {
+          "item": [
+            {
+              "filterValueId": "1",
+              "filterValueName": "Drewno",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "32",
+              "filterValueName": "Karton",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "8",
+              "filterValueName": "Metal",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "16",
+              "filterValueName": "Papier",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "64",
+              "filterValueName": "Pianka",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "4",
+              "filterValueName": "Plastik",
+              "filterValueCount": 2
+            },
+            {
+              "filterValueId": "2",
+              "filterValueName": "Tkanina",
+              "filterValueCount": 0
+            },
+            {
+              "filterValueId": "128",
+              "filterValueName": "Inny",
+              "filterValueCount": 0
+            }
+          ]
+        },
+        "filterRelations": {
+          "relationAnd": {
+            "item": [
+              "category"
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
