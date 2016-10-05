@@ -1,15 +1,16 @@
 const legoSetData = require('../lib/lego-set-data');
-const expect = require('chai').expect;
-
-const dataProviders = {
-  foo: () => new Promise((resolve)=> resolve(true)),
-  bar: () => new Promise((resolve)=> resolve(false)),
-};
+const jexpect = expect;
+expect = require('chai').expect;
 
 describe('legoSetData', ()=> {
   var legoDataGetter;
+  var dataProviders;
 
   beforeEach(() => {
+    dataProviders = {
+      foo: jest.fn().mockReturnValue(new Promise((resolve)=> resolve(true))),
+      bar: jest.fn().mockReturnValue(new Promise((resolve)=> resolve(false))),
+    };
     legoDataGetter = legoSetData.createLegoDataGetter(dataProviders);
   });
 
@@ -25,15 +26,25 @@ describe('legoSetData', ()=> {
       return legoDataGetter(config)(setId).then(function (result) {
         expect(result).to.have.property('bar');
         expect(result).to.have.property('foo');
+
+        jexpect(dataProviders.bar)
+            .toBeCalledWith('setId');
+        jexpect(dataProviders.foo)
+            .toBeCalledWith('setId');
       });
     });
 
     it('returns data for providers ommiting disabled ones', () => {
       var config = { foo: false };
-      var setId = 'setId';
+      var setId = 'setId2';
       return legoDataGetter(config)(setId).then(function (result) {
+
         expect(result).to.have.property('bar');
         expect(result).to.not.have.property('foo');
+        jexpect(dataProviders.bar)
+            .toBeCalledWith('setId2');
+        jexpect(dataProviders.foo.mock.calls.length)
+            .toBe(0);
       });
     });
 
