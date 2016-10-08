@@ -8,8 +8,10 @@ describe('legoSetData', ()=> {
 
   beforeEach(() => {
     dataProviders = {
-      foo: jest.fn().mockReturnValue(new Promise((resolve)=> resolve(true))),
-      bar: jest.fn().mockReturnValue(new Promise((resolve)=> resolve(false))),
+      foo: jest.fn().mockReturnValue(Promise.resolve('fooReturnValue')),
+      bar: jest.fn().mockReturnValue('barReturnValue'),
+      fooBar: jest.fn().mockReturnValue(Promise.resolve()),
+      throwingProvider: jest.fn().mockReturnValue(Promise.reject('error')),
     };
     legoDataGetter = legoSetData.createLegoDataGetter(dataProviders);
   });
@@ -26,6 +28,8 @@ describe('legoSetData', ()=> {
       return legoDataGetter(config)(setId).then(function (result) {
         expect(result).to.have.property('bar');
         expect(result).to.have.property('foo');
+        expect(result.foo).to.equal('fooReturnValue');
+        expect(result.bar).to.equal('barReturnValue');
 
         jexpect(dataProviders.bar)
             .toBeCalledWith('setId');
@@ -45,6 +49,31 @@ describe('legoSetData', ()=> {
             .toBeCalledWith('setId2');
         jexpect(dataProviders.foo.mock.calls.length)
             .toBe(0);
+      });
+    });
+
+    it('returns data only for providers that returns correct value', () => {
+      var setId = 'setId';
+      return legoDataGetter()(setId).then(function (result) {
+        jexpect(dataProviders.fooBar)
+            .toBeCalledWith('setId');
+
+        expect(result).to.not.have.property('fooBar');
+      });
+    });
+
+    it('resolves correctly even if some providers throw', () => {
+      var setId = 'setId';
+      return legoDataGetter()(setId).then(function (result) {
+        jexpect(dataProviders.throwingProvider)
+            .toBeCalledWith('setId');
+        jexpect(dataProviders.foo)
+            .toBeCalledWith('setId');
+
+        expect(result).to.not.have.property('throwingProvider');
+        expect(result).to.have.property('foo');
+
+        expect(result.foo).to.equal('fooReturnValue');
       });
     });
 
