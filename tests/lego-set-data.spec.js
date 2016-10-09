@@ -5,6 +5,7 @@ expect = require('chai').expect;
 describe('legoSetData', ()=> {
   var legoDataGetter;
   var dataProviders;
+  var config;
 
   beforeEach(() => {
     dataProviders = {
@@ -14,6 +15,7 @@ describe('legoSetData', ()=> {
       throwingProvider: jest.fn().mockReturnValue(Promise.reject('error')),
     };
     legoDataGetter = legoSetData.createLegoDataGetter(dataProviders);
+    config = { throwingProvider: false };
   });
 
   it('creates legoDataGetter', () => {
@@ -22,8 +24,7 @@ describe('legoSetData', ()=> {
 
   describe('legoDataGetter(config)', ()=> {
 
-    it('returns data for each provider', () => {
-      var config = {};
+    it('returns data for each valid provider', () => {
       var setId = 'setId';
       return legoDataGetter(config)(setId).then(function (result) {
         expect(result).to.have.property('bar');
@@ -39,7 +40,7 @@ describe('legoSetData', ()=> {
     });
 
     it('returns data for providers ommiting disabled ones', () => {
-      var config = { foo: false };
+      config = { foo: false, throwingProvider: false };
       var setId = 'setId2';
       return legoDataGetter(config)(setId).then(function (result) {
 
@@ -54,7 +55,7 @@ describe('legoSetData', ()=> {
 
     it('returns data only for providers that returns correct value', () => {
       var setId = 'setId';
-      return legoDataGetter()(setId).then(function (result) {
+      return legoDataGetter(config)(setId).then(function (result) {
         jexpect(dataProviders.fooBar)
             .toBeCalledWith('setId');
 
