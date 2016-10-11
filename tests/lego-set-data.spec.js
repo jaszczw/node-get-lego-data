@@ -1,11 +1,13 @@
+'use strict';
+
 const legoSetData = require('../lib/lego-set-data');
 const jexpect = expect;
 expect = require('chai').expect;
 
-describe('legoSetData', ()=> {
-  var legoDataGetter;
-  var dataProviders;
-  var config;
+describe('legoSetData', () => {
+  let legoDataGetter,
+    dataProviders,
+    config;
 
   beforeEach(() => {
     dataProviders = {
