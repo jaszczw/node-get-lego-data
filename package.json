@@ -1,0 +1,36 @@
+{
+  "name": "get-lego-data",
+  "version": "0.1.0",
+  "description": "Lib retrieving data from popular lego services",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klapek/set-fetch.git"
+  },
+  "keywords": [
+    "lego",
+    "rebrickable",
+    "bricklink"
+  ],
+  "author": "Wojciech Jaszczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klapek/node-get-lego-data/issues"
+  },
+  "homepage": "https://github.com/klapek/node-get-lego-data#readme",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "request": "^2.74.0",
+    "request-promise-native": "^1.0.3",
+    "brickset": "https://github.com/klapek/node-brickset.git",
+    "soap": "^0.16.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jest": "^16.0.0",
+    "jscs": "^3.0.7"
+  }
+}
