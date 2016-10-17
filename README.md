@@ -47,32 +47,18 @@ It provides links to some aggregates like:
 
 #Using module
 
-1. You will have to create your own configuration .json files or make enviromental variables that are visible via process.env with data:
-    - for allegro configuration [webapi](http://allegro.pl/webapi)
+1. You will have to create enviromental variables that are visible via process.env with data:
+    ```
+    ALLEGRO_PRIVATE_CONFIG={ "webapiKey": "qwert" }
+    BRICKSET_PRIVATE_CONFIG={ "apiKey": "qazxsw" }
+    REBRICKABLE_PRIVATE_CONFIG={ "apiKey": "123ewqdsa" }
+    ```
     
-        ```
-        ./lib/allegro/private-config.json || process.env.ALLEGRO_PRIVATE_CONFIG
-        {
-            "webapiKey" : "xxx"
-        }
-        ```
-    - for rebrickable configuration [api](http://rebrickable.com/api/)
-    
-        ```
-        ./lib/rebrickable/private-config.json || process.env.REBRICKABLE_PRIVATE_CONFIG
-        {
-            "apiKey": "xxx"
-        }
-        ```
-        
-    - for brickset configuration [webservices](http://brickset.com/tools/webservices/v2)
-    
-        ```
-        ./lib/brickset/private-config.json || process.env.BRICKSET_PRIVATE_CONFIG 
-        {
-            "apiKey": "xxx"
-        }
-        ```
+    Api keys are obtained from sites as follows
+    - [allegro webapiKey](http://allegro.pl/webapi)
+    - [rebrickable apiKey](http://rebrickable.com/api/)       
+    - [brickset apikey](http://brickset.com/tools/webservices/v2)
+
 2. You have to install node modules with `npm install`
 3. You run the test for module with `npm test`
 
