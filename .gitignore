@@ -3,3 +3,4 @@ node_modules
 npm-debug.log
 /lib/config/*.json
 private-config.json
+coverage

@@ -16,7 +16,7 @@ describe('legoSetData', () => {
       fooBar: jest.fn().mockReturnValue(Promise.resolve()),
       throwingProvider: jest.fn().mockReturnValue(Promise.reject('error')),
     };
-    legoDataGetter = legoSetData.createLegoDataGetter(dataProviders);
+    legoDataGetter = legoSetData.createConfigurableLegoDataGetter(dataProviders);
     config = { throwingProvider: false };
   });
 

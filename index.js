@@ -11,4 +11,4 @@ const dataProviders = {
   links: getLinks,
 };
 
-module.exports = legoData.createLegoDataGetter(dataProviders);
+module.exports = legoData.createConfigurableLegoDataGetter(dataProviders);
