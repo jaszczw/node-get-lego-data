@@ -1,6 +1,6 @@
 {
   "name": "get-lego-data",
-  "version": "0.1.2",
+  "version": "0.2.2",
   "description": "Lib retrieving data from popular lego services",
   "main": "index.js",
   "scripts": {
