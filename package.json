@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
+    "test-once": "jest",
     "test-cover": "jest --coverage"
   },
   "repository": {
