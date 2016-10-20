@@ -6,7 +6,7 @@ There will be more info available as more lego services will be integrated into 
 
 ##What's to be done
 
-- Separate data fetch module with processing and displaying received data
+- Configurable providers based on settings
 - Additional data providers
     - ebay
     - bricklink
