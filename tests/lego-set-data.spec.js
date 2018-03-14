@@ -14,7 +14,7 @@ describe('legoSetData', () => {
       foo: jest.fn().mockReturnValue(Promise.resolve('fooReturnValue')),
       bar: jest.fn().mockReturnValue('barReturnValue'),
       fooBar: jest.fn().mockReturnValue(Promise.resolve()),
-      throwingProvider: jest.fn().mockReturnValue(Promise.reject('error')),
+      throwingProvider: jest.fn().mockReturnValue(Promise.reject('Test error')),
     };
     legoDataGetter = legoSetData.createConfigurableLegoDataGetter(dataProviders);
     config = { throwingProvider: false };
@@ -43,7 +43,7 @@ describe('legoSetData', () => {
 
     it('returns data for providers ommiting disabled ones', () => {
       config = { foo: false, throwingProvider: false };
-      var setId = 'setId2';
+      const setId = 'setId2';
       return legoDataGetter(config)(setId).then(function (result) {
 
         expect(result).to.have.property('bar');
@@ -56,8 +56,8 @@ describe('legoSetData', () => {
     });
 
     it('returns data only for providers that returns correct value', () => {
-      var setId = 'setId';
-      return legoDataGetter(config)(setId).then(function (result) {
+        const setId = 'setId';
+        return legoDataGetter(config)(setId).then(function (result) {
         jexpect(dataProviders.fooBar)
             .toBeCalledWith('setId');
 
@@ -66,8 +66,8 @@ describe('legoSetData', () => {
     });
 
     it('resolves correctly even if some providers throw', () => {
-      var setId = 'setId';
-      return legoDataGetter()(setId).then(function (result) {
+        const setId = 'setId';
+        return legoDataGetter()(setId).then(function (result) {
         jexpect(dataProviders.throwingProvider)
             .toBeCalledWith('setId');
         jexpect(dataProviders.foo)
