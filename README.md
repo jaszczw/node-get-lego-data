@@ -1,4 +1,4 @@
-#node-get-lego-data [![Build Status](https://travis-ci.org/klapek/node-get-lego-data.svg?branch=master)](https://travis-ci.org/klapek/node-get-lego-data)
+#node-get-lego-data [![Build Status](https://travis-ci.org/jaszczw/node-get-lego-data.svg?branch=master)](https://travis-ci.org/jaszczw/node-get-lego-data)
 
 Project idea is to retrieve most basic data about lego sets.
 It should get data from popular auctions sites and lego data aggregators.
