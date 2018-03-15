@@ -1,5 +1,6 @@
 node_modules
 .idea
+.env
 npm-debug.log
 /lib/config/*.json
 private-config.json
